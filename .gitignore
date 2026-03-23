@@ -1,0 +1,11 @@
+node_modules
+dist
+build
+.env
+.env.*
+coverage
+.prisma
+.next
+.vscode
+.DS_Store
+Thumbs.db
