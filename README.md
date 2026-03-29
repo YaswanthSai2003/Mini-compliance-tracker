@@ -1,12 +1,15 @@
 # Mini Compliance Tracker
 
-A full-stack web application to manage compliance tasks across multiple clients.
+A full-stack web application designed to help manage compliance tasks across multiple clients efficiently. It allows teams to track deadlines, monitor overdue items, and visualize workload.
 
 Users can:
 - View clients
 - Manage compliance tasks
 - Track overdue items
 - Analyze workload via charts
+
+## Live Demo
+https://mini-compliance-tracker-1ka1.vercel.app/
 
 ## Tech Stack
 
